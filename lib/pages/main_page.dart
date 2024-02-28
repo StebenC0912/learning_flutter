@@ -50,7 +50,7 @@ class _MainPageState extends State<MainPage> {
   Widget build(Object context) {
     return Scaffold(
         appBar: AppBar(
-          title: const Text('Welcome 2 pages'),
+          title: const Text('Welcome to MPR Cart!'),
           backgroundColor: Colors.green,
           // disable the back button
           automaticallyImplyLeading: false,
